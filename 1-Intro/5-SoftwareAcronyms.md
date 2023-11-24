@@ -1,0 +1,39 @@
+  
+
+Software Acronyms
+=================
+
+### **CMS** (**C**ontent **M**anagement **S**ystem)
+
+CMS is making it possible for the end-user without knowing the HTML and without the need to login to the server to easily edit the content of the website (combination of text, pictures, videos, audio, and other file formats) in WYSIWYG rich text editor. Below [Froal](https://froala.com/ "https://froala.com/")a sample:
+
+![](https://i.imgur.com/TrI0xoD.png)
+
+The most popular CMS still is **WordPress** **(WP)** and for e-shops, it's plugin WooCommerce. It is very hard to find a great programmer with years of experience who still uses WordPress a lot. At **CN** **(CrewNew)** we have had only one WP dev @attila past couple of years already because usually, lower-level developers like it as there are not so many programming skills needed to get it up and running. With various plugins, you can easily extend it and there are tons of templates out there to just take it and use it.
+
+Sounds really beautiful but when custom modifications are needed then it's much more time-consuming to develop them. And as the number of plugins grows and time passes and updates are needed then things start to break and the endless headaches start. The client tries to auto-upgrade because WP is the most popular and thus most attacked so updating is kind of mandatory. Things break. He will ask his WP guy who is in most cases not so experienced and just was able to deliver the initial solution. He tries some hacky ways and gives up. The client finds the next dev who is already in a worse situation as there are 2 less experienced people on it so you can imagine the mess, headaches, and endless patches. Nobody really wants a customer who wants WP fixes. Good devs hate it and thus it is not a good solution at all.
+
+Some more old-fashioned CMS software out there: Finnish developed **Joomla** was the first one to become hugely popular. **Drupal** is another one still pretty popular. It is built rather by decent devs. WP was actually, in the beginning, meant just for blogging. Other oldies are really not worth mentioning anymore.
+
+For E-commerce (e-shops) the most popular ones are the already mentioned WP plugin **WooCommerce**, **Magento,** and **Prestashop**. Woo's main pros and cons are the same as WP: easy to start but too many problems later + hard to find a dev who is actually a good programmer. Magento is better because it is built on top of the framework (PHP's Zend Framework) and is easier to modify and play with if you're good in PHP/Zend. It is also built-in mind if you have multiple shops and a huge amount of products. But it is heavy and huge and that brings 2 cons: it takes time to make even simple changes & it is damn slow unless you spend a lot of time optimising, caching, and host it in an expensive VPS with at least 4GB RAM. There are some really big name brands using Magento, including Nike, Ford, and Coca-Cola. There are much fewer Magento devs out there compared to Woo but a higher percentage of them are good ones and as they are few they tend to charge decently. Prestashop has even fewer developers but again rather more experienced. It is the smallest of all three. You wouldn't suggest any of three actually to the customer. Woo, maybe when a really simple and small shot is needed really cheap and would suggest to some junior freelancer dev elsewhere if @attila isn't free. Won't spend time recruiting another WP dev.
+
+There are also SaaS (**S**oftware **a**s **a** **S**ervice) solutions. This means that the software won't be in your server but rather in the provider's server and you pay monthly to the provider. Usually, it is not very expensive in the beginning but as you grow it usually gets pretty expensive. And when you want some modifications that plugins (usually plugins also cost) out there don't do then the only way is to develop your own plugin. That means times more investment compared to having the feature you need on some above-mentioned open-source solution. And of course, times even cheaper will be the custom feature to have on your own well-architectured solution. The most popular ones are **Shopify** and **Wix**.
+
+The best modern CMS's are **headless** where content “body” is separated from the presentation layer “head.”. CMS just provides the API to deliver the content and take in information like user signup, shopping cart content, etc. In the front-end, there's React, Vue, or React and it has nothing to do with the CMS. The most popular ones are **Stripe**, **Directus**, **Contentful**, **Prismic**, **Netlify**, and **Agility CMS**. They all are super simple to learn to fully use for any developer within one working day so even if you don't find for example Directus dev to hire from Directus Discord then your dev can learn it in a day and get quite a lot of your requirements already done during that learning curve. Think yourself - for the simple website it is just to be able to edit the rows in the "content" table in the DB. That is done by the CMS including auth and some extra stuff like file uploading and deleting. You just need to install and set it up and then you have the API and for the front-end guys, it is smooth and easy to implement the content to the beautiful UI they have developed.
+
+### ERP (Enterprise Resource Planning)
+
+It is a suite of apps that in most cases minimally contain at least **CRM** (customer relationship management) (CRM) and accounting software. ERP attempts to do the work of multiple systems in one bypassing the hassle of connecting multiple systems to be in sync. **Odoo** is one of the most popular open-source ERP systems written in Python. ERP is used to plan and manage daily activities such as supply chain, manufacturing, services, financials, and other processes. Some more ERP popular components: invoicing, expenses/profits charts, document management, **POS** (point of sale), live chat & helpdesk, inventory, manufacturing, product lifecycle management (PLM), purchasing, human resources, timesheets, payrolls, marketing, in-house chats, etc., etc. Some more popular not open-source ERPs are: MS Dynamics, Erply, Sage, SAP.
+
+###### CRM (Customer Relationship Management)
+
+The core of it is to better organize and access customer data but today it is much more than just an editable "customers" table in the DB: a software that connects your marketing to sales to customer service, and organises their notes, activities, and metrics into one system. The most popular SaaS solution today is **HubSpot** because it gives a lot of core functionality for free. The best SaaS CRM and marketing automation softwares (most of the CRMs today do also marketing automation) is **SalesForce**. For solo business the most popular one today is **FreshWorks** and raising its head is the new Estonian unicorn **PipeDrive** that is developed mostly with sales in mind like SalesForce. **ZohoCRM** is another affordable one.
+
+### More
+
+*   [Marketing automation](https://crewnew.com/skills/marketing-automation "https://crewnew.com/skills/marketing-automation")
+*   ATS (Applicant Tracking System)
+*   [LMS (Learning Management System)](https://crewnew.com/skills/lms-vle-education "https://crewnew.com/skills/lms-vle-education")
+*   [PMS (Property Management Systems)](https://crewnew.com/skills/real-estate-pms "https://crewnew.com/skills/real-estate-pms")
+*   [PM (Project Management) software](https://crewnew.com/skills/project-management-soft "https://crewnew.com/skills/project-management-soft")
+*   [Communication & Chat](https://crewnew.com/skills/communication-chat "https://crewnew.com/skills/communication-chat")
