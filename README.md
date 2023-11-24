@@ -1,7 +1,7 @@
 # Learn Coding Quick
  
 1. [Intro](./1-Intro/README.md)
-2. Sololearn HTML, CSS, JS (JavaScript)
+2. [Sololearn](https://www.sololearn.com/) HTML, CSS, and JS (JavaScript)!!! QUICK!!! EASY!!!
 3. Kaspar's intro to SvelteKit / TailwindCSS
 4. [Data structures](./3-DataStructures/README.md)
 5. [SvelteKit easy video course](https://www.youtube.com/watch?v=QfwNNKq6-bw)
