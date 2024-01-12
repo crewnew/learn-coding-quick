@@ -26,13 +26,13 @@ Types are dynamic. You can do `age = 3` and then `age = '4'` so the `age` variab
 ## Operators
 
 * `+`	Addition
-* -	Subtraction
-* *	Multiplication
-* **	Exponentiation - like a shortcut for multiplication. When you write A ** B, it means you are multiplying A by itself B times. If A is 3 and B is 2, then 3 ** 2 means 3 * 3 = 9. If B is 3 then 3 ** 3 means 3 * 3 * 3 = 27.
-* /	Division
-* %	Modulus (Division Remainder) - find the remainder after dividing one number by another. If I share 10 beers among 3 friends, how many beers will be left after everyone  gets an equal share? One, right? So 10 % 3 is 1.
-* ++	Increment - eg. if age = 25 then on birthday we'll do age++ and get 26
-* --	Decrement - same as ++ but decrementing
+* `-`	Subtraction
+* `*`	Multiplication
+* `**`	Exponentiation - like a shortcut for multiplication. When you write A ** B, it means you are multiplying A by itself B times. If A is 3 and B is 2, then 3 ** 2 means 3 * 3 = 9. If B is 3 then 3 ** 3 means 3 * 3 * 3 = 27.
+* `/`	Division
+* `%`	Modulus (Division Remainder) - find the remainder after dividing one number by another. If I share 10 beers among 3 friends, how many beers will be left after everyone  gets an equal share? One, right? So 10 % 3 is 1.
+* `++`	Increment - eg. if age = 25 then on birthday we'll do age++ and get 26
+* `--`	Decrement - same as ++ but decrementing
 
 ### Assignment Operators
 
